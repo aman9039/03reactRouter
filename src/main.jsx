@@ -10,6 +10,8 @@ import Contact from './Components/Contact/Contact.jsx'
 import User from './Components/User/User.jsx'
 import Github, { githubInfoLoader } from './Components/Github/Github.jsx'
 
+//Route first method -
+
 // const router = createBrowserRouter([
 
 //   {
@@ -31,6 +33,8 @@ import Github, { githubInfoLoader } from './Components/Github/Github.jsx'
 //     ]
 //   }
 // ])
+
+// Route Second mathod -
 
 const router = createBrowserRouter (
   createRoutesFromChildren(
